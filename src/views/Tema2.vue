@@ -100,6 +100,7 @@
         
         .col-lg-8
           LineaTiempoD.color-secundario
+          
             p(numero="1" titulo="Atención humanitaria inmediata") La ayuda humanitaria es estregada por parte de la entidad territorial que en este caso sería la Alcaldía Municipal, la cual recibe a las poblaciones que han sido víctimas de desplazamientos. Esta adelanta todo el proceso desde que las victimas rinden su declaración hasta que son incluidas en el Registro Único de Victimas, el cual pretende garantizar los componentes de alimentación, artículos de aseo, administración de abastecimientos, utensilios de cocina y alojamiento transitorio. 
 
             p(numero="2" titulo="Ayuda humanitaria de emergencias") Estas ayudas son entregadas por parte de la Unidad para las Víctimas a las poblaciones que previamente fueron incluidas en el Registro Único de Victimas por parte de la entidad territorial. Dichas poblaciones se deberán encontrar dentro del primer año de desplazamiento, identificando un alto grado de necesidad con respecto a los componentes de la subsistencia mínima. 
