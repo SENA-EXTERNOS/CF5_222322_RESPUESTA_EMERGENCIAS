@@ -25,7 +25,7 @@
             .col-sm.mb-3.mb-sm-0
               p.fw-bold.mb-0 Arrastrar y soltar
             .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
+              a.boton.boton--b(:href="obtenerLink('/actividades/Actividad_Didáctica-CF5 - T_222322_Respuestas a emergencias - Storyline output/story.html')" target="_blank")
                 span Realizar
                 i.fas.fa-puzzle-piece
                 
