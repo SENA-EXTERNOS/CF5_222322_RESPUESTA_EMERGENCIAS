@@ -75,8 +75,8 @@
               .col-8
                 img(src='@/assets/curso/temas/imagen-donaciones-tema2.png' alt='AvatarTop')
             h2.text-center Donaciones:
-            p.text-center Es la combinación entre los recursos simples que se encuentran dentro del área de control, los cuales pueden ser de diferente clase que estén constituidas para una necesidad especifica. Cuenta con un líder y un equipo de comunicaciones
-            //p.texto-invisible Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti, corrupti beatae. Nostrum quo molestiae, iure quisquam voluptatibus nemo ut nulla culpa, hic quae natus nam numquam. 
+            p.text-center Las personas que quieran apoyar y aportar a las ayudas humanitarias pueden realizar donaciones a fundaciones sin ánimo de lucro.
+            p.texto-invisible Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deleniti, corrupti beatae. 
     
     separador          
 
@@ -101,15 +101,15 @@
         .col-lg-8
           LineaTiempoD.color-secundario
           
-            p(numero="1" titulo="Atención humanitaria inmediata") La ayuda humanitaria es estregada por parte de la entidad territorial que en este caso sería la Alcaldía Municipal, la cual recibe a las poblaciones que han sido víctimas de desplazamientos. Esta adelanta todo el proceso desde que las victimas rinden su declaración hasta que son incluidas en el Registro Único de Victimas, el cual pretende garantizar los componentes de alimentación, artículos de aseo, administración de abastecimientos, utensilios de cocina y alojamiento transitorio. 
+            p(numero="1" titulo="Atención humanitaria inmediata") La ayuda humanitaria es entregada por parte de la entidad territorial que en este caso sería la Alcaldía Municipal, la cual recibe a las poblaciones que han sido víctimas de desplazamientos. Esta adelanta todo el proceso desde que las víctimas rinden su declaración hasta que son incluidas en el Registro Único de Víctimas, el cual pretende garantizar los componentes de alimentación, artículos de aseo, administración de abastecimientos, utensilios de cocina y alojamiento transitorio. 
 
-            p(numero="2" titulo="Ayuda humanitaria de emergencias") Estas ayudas son entregadas por parte de la Unidad para las Víctimas a las poblaciones que previamente fueron incluidas en el Registro Único de Victimas por parte de la entidad territorial. Dichas poblaciones se deberán encontrar dentro del primer año de desplazamiento, identificando un alto grado de necesidad con respecto a los componentes de la subsistencia mínima. 
+            p(numero="2" titulo="Ayuda humanitaria de emergencias") Estas ayudas son entregadas por parte de la Unidad para las Víctimas a las poblaciones que previamente fueron incluidas en el Registro Único de Víctimas por parte de la entidad territorial. Dichas poblaciones se deberán encontrar dentro del primer año de desplazamiento, identificando un alto grado de necesidad con respecto a los componentes de la subsistencia mínima. 
 
-            p(numero="3" titulo="Atención humanitaria en transición") Se otorga directamente por la Unidad para las Victimas a la población que haya sido víctima de desplazamiento forzado, el cual haya ocurrido en un término superior a un año y que, de acuerdo con el análisis de la situación actual, las carencias que presenten sean leves en los componentes de alojamiento temporal y/o alimentación. 
+            p(numero="3" titulo="Atención humanitaria en transición") Se otorga directamente por la Unidad para las Vctimas a la población que haya sido víctima de desplazamiento forzado, el cual haya ocurrido en un término superior a un año y que, de acuerdo con el análisis de la situación actual, las carencias que presenten sean leves en los componentes de alojamiento temporal y/o alimentación. 
 
             p(numero="4" titulo="Ayuda de emergencia") Es el resultante de una situación de emergencia que haya sido provocada por el hombre o por una catástrofe natural. Esta ayuda se categorizara entre ayuda y servicios materiales de emergencia, ayuda alimentaria de emergencia y coordinación de los servicios de protección de la ayuda. 
 
-            p(numero="5" titulo="Ayuda de construcción y rehabilitación") Son todas aquellas actuaciones que no son inmediatas porque tienen un enfoque a largo plazo, las cuales están orientadas a que el país receptos logre superar la crisis humanitaria. 
+            p(numero="5" titulo="Ayuda de construcción y rehabilitación") Son todas aquellas actuaciones que no son inmediatas porque tienen un enfoque a largo plazo, las cuales están orientadas a que el país receptor logre superar la crisis humanitaria. 
 
             p(numero="6" titulo="Prevención de desastres") Son las actividades que se destinan para reducir los riesgos de desastres y planear estrategias para anticiparse a eventos que puedan traer repercusiones en las vidas humanas y el medio ambiente. 
           

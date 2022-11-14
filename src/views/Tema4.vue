@@ -55,7 +55,7 @@
                     p En la actualidad existen mecanismos denominados pedernal el cual es una piedra de sílex que al ser rascado con un objeto de acero genera una chispa y se puede generar fuego de esta manera.  
                   
                   br
-                  p.texto-slider-tema4 El fuego no se utilizara solo para calentarse sino en situaciones extremas se debe utilizar para cocinar los elementos que tenga dentro del kit de emergencias.
+                  p.texto-slider-tema4 El fuego no se utilizará solo para calentarse sino en situaciones extremas se debe utilizar para cocinar los elementos que tenga dentro del kit de emergencias.
 
                 .col-md-6
                   figure
@@ -107,8 +107,8 @@
 
                 .col-md-6.mb-4.mb-md-0
                   h4.texto-slider-tema4 Cobija
-                  p.texto-slider-tema4 Las cobijas o cobertores ayudarán a cubrir del frio o de otras adversidades por las cuales deban atravesar los miembros de la familia durante una situación de emergencia. 
-                  p.texto-slider-tema4 Las mantas térmicas también deber ser un elemento esencial en un kit de emergencia, ya que el espacio que ocupa dentro de la maleta es reducido y se puede transportar con facilidad. 
+                  p.texto-slider-tema4 Las cobijas o cobertores ayudarán a cubrir del frío o de otras adversidades por las cuales deban atravesar los miembros de la familia durante una situación de emergencia. 
+                  p.texto-slider-tema4 Las mantas térmicas también deben ser un elemento esencial en un kit de emergencia, ya que el espacio que ocupa dentro de la maleta es reducido y se puede transportar con facilidad. 
 
                 .col-md-6
                   figure
@@ -138,7 +138,7 @@
                 .col-md-6.mb-4.mb-md-0
                   h4.texto-slider-tema4 Artículos de aseo
                   p.texto-slider-tema4 Los elementos de aseo deben estar incluidos dentro del kit de emergencias, algunos de los principales deben ser crema dental, jabón y papel higiénico. 
-                  p.texto-slider-tema4 Dependiendo de la región en la que se encuentre pueden varias estos elementos, tanto bloqueadores solares como repelentes contra insectos. 
+                  p.texto-slider-tema4 Dependiendo de la región en la que se encuentre pueden variar estos elementos, tanto bloqueadores solares como repelentes contra insectos. 
 
    
                 .col-md-6
@@ -250,12 +250,25 @@
 
                 .col-md-6.mb-4.mb-md-0
                   h4.texto-slider-tema4 Linterna
-                  p.texto-slider-tema4 El suministro de energía se puede ser afectado en una situación de emergencia por lo que una linterna proporcionada visibilidad en la noche y lugares oscuros. 
-                  p.texto-slider-tema4 Las linternas auto recargables se utilizan para que el abastecimiento de energía sea ilimitado, estas cuentan con un sistema de palanca con el cual permite recargar la batería de la linterna solo con unos cuentos movimientos de muñeca. 
+                  p.texto-slider-tema4 El suministro de energía se puede ser afectado en una situación de emergencia por lo que una linterna proporciona visibilidad en la noche y lugares oscuros. 
+                  p.texto-slider-tema4 Las linternas auto recargables se utilizan para que el abastecimiento de energía sea ilimitado, estas cuentan con un sistema de palanca con el cual permite recargar la batería de la linterna solo con unos cuantos movimientos de muñeca. 
 
                 .col-md-6
                   figure
                     img(src='@/assets/curso/temas/img16-slider-tema4.png', alt='Texto que describa la imagen').imagenes-slider-tema4
+                  //figcaption Leyenda de la imagen
+
+              .row
+
+                .col-md-6.mb-4.mb-md-0
+                  h4.texto-slider-tema4 Herramientas
+                  p.texto-slider-tema4 Una navaja multiusos es la mejor herramienta ya que contiene varios servicios dentro de ella, tales como, tijeras, abrelatas, navaja, destornilladores, entre otras utilidades que serán necesarias dentro de una situación de emergencia. 
+                  p.texto-slider-tema4 Otras herramientas fundamentales son las brújulas, las cuales servirán en caso de desorientación o perdida en lugares no concurridos, lo cual facilitara la ubicación de los cuerpos de ayuda en un menor tiempo. 
+
+
+                .col-md-6
+                  figure
+                    img(src='@/assets/curso/temas/img-herramientas-slider-tema4.png', alt='Texto que describa la imagen').imagenes-slider-tema4
                   //figcaption Leyenda de la imagen
 
       br
@@ -295,7 +308,7 @@
                       img(src='@/assets/curso/temas/imagen1-manuales-tema4.png', alt='Texto que describa la imagen').imagenes-tar-avatar-tema4
 
                 h3.text-center.titulos-tar-avatar-tema4 Círculo
-                p.text-small.texto-fila1-tar-avatar-tema1 El significado de las señales que tienen forma geométrica de circulo es de prohibición o acción de mando. 
+                p.text-small.texto-fila1-tar-avatar-tema1 El significado de las señales que tienen forma geométrica de círculo es de prohibición o acción de mando. 
 
             .col-sm-7.col-lg-4.mb-5.mb-lg-0
               .tarjeta--boton.color-acento-contenido.p-4
@@ -357,10 +370,10 @@
 
           .col-lg-7.bloque-texto-tar-final-tema4
             .bloque-texto-color-tar-final-tema4
-            p.texto-tar-final-tema4 Los elementos de emergencia son todos aquellos objetos que han sido previamente diseñados y probados para atender situaciones de emergencia. Se deben ubicar en lugares de fácil acceso para los brigadistas o las personas que fueron encargadas las cuales los utilizaran antes, durante y después de una emergencia, en el lapsus de tiempo en que se demore en llegar la ayuda profesional. 
+            p.texto-tar-final-tema4 Los elementos de emergencia son todos aquellos objetos que han sido previamente diseñados y probados para atender situaciones de emergencia. Se deben ubicar en lugares de fácil acceso para los brigadistas o las personas que fueron encargadas las cuales los utilizarán antes, durante y después de una emergencia, en el lapsus de tiempo en que se demore en llegar la ayuda profesional. 
             
             .cajon(data-aos="flip-up").cajon-color-tar-final-tema4.color-secundario.p-4
-              .h5 Cajón texto color
+              //.h5 Cajón texto color
               p Estimado Aprendiz. Hemos llegado al final de este componente formativo. Esperamos que continúe recorriendo este camino lleno de aprendizajes. Recuerde explorar los recursos que se encuentran disponibles. Diríjase al menú principal en donde encontrará la síntesis del tema abordado, una actividad didáctica, material complementario, entre otros.
 
 </template>

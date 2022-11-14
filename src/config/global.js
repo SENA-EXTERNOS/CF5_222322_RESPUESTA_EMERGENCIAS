@@ -1,6 +1,6 @@
 export default {
   global: {
-    componenteFormativo: 'Respuesta a emergencias.',
+    componenteFormativo: 'Respuesta a emergencias',
     descripcionCurso:
       'En este componente formativo podrá adquirir los conocimientos sobre los procedimientos, herramientas y puestos de mando necesarios para dar respuesta a una emergencia, las maneras de actuar y de recibir las ayudas humanitarias para resarcir a las personas que fueron afectadas.',
     imagenBannerPrincipal: require('@/assets/curso/portada/imagen-fuego-blanco.png'),
@@ -219,7 +219,7 @@ export default {
     {
       termino: 'Evaluación de incidentes',
       significado:
-        'proceso dinámico y cambiante frente a la situación que se genere día a día, por lo que debe adelantarse periódicamente mediante instrumentos que permitan confirmar las verdaderas necesidades de los sectores que se vieron afectados y determinar los aspectos cuantitativas y cualitativos de la catástrofe sanitaria.',
+        'proceso dinámico y cambiante frente a la situación que se genere día a día, por lo que debe adelantarse periódicamente mediante instrumentos que permitan confirmar las verdaderas necesidades de los sectores que se vieron afectados y determinar los aspectos cuantitativos y cualitativos de la catástrofe sanitaria.',
     },
     {
       termino:
@@ -230,7 +230,7 @@ export default {
     {
       termino: 'Kit de emergencias',
       significado:
-        'Es un maletín el cual debe ser organizado teniendo en cuanta todos los miembros de la familia, sus medicinas particulares y artículos de aseo. Un kit de emergencias debe permitir que una persona y su familia puedan sobrevivir como mínimo durante 72 horas.',
+        'Es un maletín el cual debe ser organizado teniendo en cuenta todos los miembros de la familia, sus medicinas particulares y artículos de aseo. Un kit de emergencias debe permitir que una persona y su familia puedan sobrevivir como mínimo durante 72 horas.',
     },
     {
       termino: 'Sistema de Comandos de Incidentes (SCI)',

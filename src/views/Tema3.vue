@@ -89,7 +89,7 @@
 
                 .row(titulo="Operaciones")
                   .col-12
-                    p.texto-acordeon-tema3.mb-0 Están encargados de determinar las estrategias que se aplicaran, así como las necesidades de recursos adicionales que se requieran para la correcta operación del sistema. 
+                    p.texto-acordeon-tema3.mb-0 Están encargados de determinar las estrategias que se aplicarán, así como las necesidades de recursos adicionales que se requieran para la correcta operación del sistema. 
 
                 .row(titulo="Logística")
                   .col-12
@@ -105,7 +105,7 @@
                     p.texto-acordeon-tema3.mb-0 El PMU garantiza la seguridad del personal de respuesta, evaluando y controlando las situaciones peligrosas, que representen un riesgo para las personas involucradas.
                     p.texto-acordeon-tema3 El área debe ser acordonada para asegurar que no ingresen personas externas al evento que puedan salir lesionados en la búsqueda apresurada de pertenencias o de familiares perdidos, en estas situaciones el PMU debe realizar un registro de todas las personas que ingresan y salen de la zona que este acordonada. 
                 
-                .row(titulo="Información publica")
+                .row(titulo="Información pública")
                   .col-12
                     p.texto-acordeon-tema3.mb-0 Los comunicados de prensa deben estar actualizados para informar del progreso del evento de emergencia.
                     p.texto-acordeon-tema3.mb-0 Con la información recopilada se deben entregar informes tanto parciales como finales. los cuales se utilizaran para que la prensa y los diferentes medios de comunicación cuenten con información de primera mano, en la cual se detallen todos los daños en tanto a pérdidas humanas y de infraestructura que deje una situación de desastre, así se asegura que el proceso sea transparente en relación con las ayudas que deberán recibir las comunidades afectadas.
@@ -113,7 +113,7 @@
                 
                 .row(titulo="Enlace")
                   .col-12
-                    p.texto-acordeon-tema3.mb-0 Tienen la tarea de mantener el contacto con los representantes de las unidades médicas. Cuentan con un directorio en donde están relacionadas todas las instituciones que fueron o serán participes de la atención a la emergencia para identificar potenciales problemas y contar con el apoyo interinstitucional.
+                    p.texto-acordeon-tema3.mb-0 Tienen la tarea de mantener el contacto con los representantes de las unidades médicas. Cuentan con un directorio en donde están relacionadas todas las instituciones que fueron o serán partícipes de la atención a la emergencia para identificar potenciales problemas y contar con el apoyo interinstitucional.
 
             .col-lg-4
               figure(data-aos="zoom-in")
@@ -130,7 +130,7 @@
       .row.fondo-tarjeta-final-tema3
         p Son objetos flexibles, en donde en relación con cada tipo de situación, se privilegia que las entidades que tengan una mayor capacidad operacional y experticia sean las que tomen el mando de las operaciones en una situación de emergencia. 
         p.texto-verde-pmu La flexibilidad permite que se establezcan diferentes estrategias de acuerdo a las necesidades de la situación de emergencia, ya que todas son diferentes, y si bien algunos casos son similares, los costos y el número de víctimas siempre varía. En ciertos casos donde los daños son mínimos o no se vieron afectadas vidas humanas ni sus pertenencias, se pueden utilizar patrones diseñados específicamente para estas situaciones, en donde ya se establecen las acciones que se deben tomar, lo cual facilita el procesamiento de información y comunicación hacia las autoridades pertinentes y medios de comunicación. 
-        p El mando del PMU debe estar ejercido por una persona que cuante con la respectiva competencia legal, institucional, jerárquica o técnica el cual tendrá unas responsabilidades particulares las cuales se referencian a continuación: 
+        p El mando del PMU debe estar ejercido por una persona que cuente con la respectiva competencia legal, institucional, jerárquica o técnica el cual tendrá unas responsabilidades particulares las cuales se referencian a continuación: 
 
         .row
           figure

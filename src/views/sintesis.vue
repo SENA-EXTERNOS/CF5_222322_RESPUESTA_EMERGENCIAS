@@ -9,11 +9,12 @@
         p.texto-titulo-sintesis Síntesis:  Respuesta a emergencias. 
 
     br
-
+    p A continuación, se presenta un mapa mental en donde podrá encontrar los contenidos trabajados en el componente formativo de manera grafica. 
+    
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/imagen-sintesis.png", alt="alt")
+          img(src="@/assets/curso/temas/imagen-sintesis.png", alt="alt").img-sintesis
       .col-auto
         a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis cf5.pdf')" target="_blank")
           .anexo__icono

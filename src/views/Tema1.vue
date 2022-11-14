@@ -54,7 +54,7 @@
       .titulo-segundo.color-acento-contenido
         h2 1.1  Procedimientos
       
-      p Luego de la tragedia ocurrida el 11 de septiembre del año 2001, en el atentado presentado a las Torres Gemelas en New York, el gobierno estadounidense ordenó la creación e implementación de un sistema efectivo y ágil para darle el adecuado manejo a todo tipo de emergencias. Fue así como nació el Sistema Nacional del Manejo de Incidentes cuyas practicas fueron integradas dentro del Sistema Comando de Incidentes - SCI. A continuación, conoceremos las principales características de este procedimiento.
+      p Luego de la tragedia ocurrida el 11 de septiembre del año 2001, en el atentado presentado a las Torres Gemelas en New York, el gobierno estadounidense ordenó la creación e implementación de un sistema efectivo y ágil para darle el adecuado manejo a todo tipo de emergencias. Fue así como nació el Sistema Nacional del Manejo de Incidentes cuyas prácticas fueron integradas dentro del Sistema Comando de Incidentes - SCI. A continuación, conoceremos las principales características de este procedimiento.
 
       .row.contenedor-filas-tar-avatar.p-4
         .row.fila1-tar-avatar-tema1
