@@ -69,13 +69,13 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
-            titulo: 'Tipos de ayuda humanitaria',
+            titulo: 'Tipos',
             hash: 'tipos-de-ayuda-humanitaria',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
-            titulo: 'Ayuda Humanitaria de Emergencias',
+            titulo: 'AHE',
             hash: 'ayuda-humanitaria-de-emergencias',
           },
         ],
