@@ -207,8 +207,9 @@
         .bloque-tomado-de-tema1
           figure
               img(src="@/assets/curso/temas/imagen-tomado-de-tema1.png", alt="alt").imagen-tomado-de-tema1
-          p.texto-tomado-de-tema1 Tomado de: https://www.anm.gov.co/sites/default/files/DocumentosAnm/sci_edgyflorez.pdf   
-    
+
+          a(:href="obtenerLink('https://www.anm.gov.co/sites/default/files/DocumentosAnm/sci_edgyflorez.pdf')" target="_blank") 
+            p.texto-tomado-de-tema1 Tomado de: https://www.anm.gov.co/sites/default/files/DocumentosAnm/sci_edgyflorez.pdf
     
     .row.container.justify-content-around.align-items-center
 

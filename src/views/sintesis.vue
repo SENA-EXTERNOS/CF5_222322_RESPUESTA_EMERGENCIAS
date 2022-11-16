@@ -3,6 +3,10 @@
   BannerInterno
   //(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
+    .titulo-principal.color-acento-contenido
+        .titulo-principal__numero
+          span 
+        h1 Sintesis
 
     .titulo-sexto.color-titulo-sexto
         h4.texto-titulo-sintesis Gestión comunitaria del riesgo de desastres.
