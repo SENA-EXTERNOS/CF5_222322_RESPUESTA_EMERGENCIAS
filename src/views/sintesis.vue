@@ -1,18 +1,9 @@
 <template lang="pug">
 .curso-main-container.pb-3
-  BannerInterno
-  //(icono="fas fa-sitemap" titulo="Síntesis")
+  BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    .titulo-principal.color-acento-contenido
-        .titulo-principal__numero
-          span 
-        h1 Sintesis
 
-    .titulo-sexto.color-titulo-sexto
-        h4.texto-titulo-sintesis Gestión comunitaria del riesgo de desastres.
-        p.texto-titulo-sintesis Síntesis:  Respuesta a emergencias. 
 
-    br
     p A continuación, se presenta un mapa mental en donde podrá encontrar los contenidos trabajados en el componente formativo de manera grafica. 
     
     .row.justify-content-center
