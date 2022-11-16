@@ -84,7 +84,7 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Puestos de mando - PMU',
+        titulo: 'Puestos de mando',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -96,7 +96,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '3.2',
-            titulo: 'Flexibilidad de los Puestos de Mando Unificado - PMU',
+            titulo: 'Flexibilidad',
             hash: 'flexibilidad-de-los-puestos-de-mando-unificado-PMU',
           },
         ],
